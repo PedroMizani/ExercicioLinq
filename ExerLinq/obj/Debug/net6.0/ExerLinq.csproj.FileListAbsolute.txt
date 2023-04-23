@@ -1,0 +1,15 @@
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.csproj.AssemblyReference.cache
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.AssemblyInfoInputs.cache
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.AssemblyInfo.cs
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.csproj.CoreCompileInputs.cache
+D:\PROJETOS CS\ExerLinq\ExerLinq\bin\Debug\net6.0\ExerLinq.exe
+D:\PROJETOS CS\ExerLinq\ExerLinq\bin\Debug\net6.0\ExerLinq.deps.json
+D:\PROJETOS CS\ExerLinq\ExerLinq\bin\Debug\net6.0\ExerLinq.runtimeconfig.json
+D:\PROJETOS CS\ExerLinq\ExerLinq\bin\Debug\net6.0\ExerLinq.dll
+D:\PROJETOS CS\ExerLinq\ExerLinq\bin\Debug\net6.0\ExerLinq.pdb
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.dll
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\refint\ExerLinq.dll
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.pdb
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ExerLinq.genruntimeconfig.cache
+D:\PROJETOS CS\ExerLinq\ExerLinq\obj\Debug\net6.0\ref\ExerLinq.dll
